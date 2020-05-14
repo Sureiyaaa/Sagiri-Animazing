@@ -13,13 +13,13 @@ regarding Sagiri just open a issue or contact me in Discord
 - Cooldowns
 
 Config:
-{
+```{
   "botName": "",
   "discord_token": "",
   "prefix": "",
   "adminRoleName": "Discord Admin",
   "actionChannel": "" 
-}
+}```
 Console:
 npm install
 

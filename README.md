@@ -11,8 +11,9 @@ regarding Sagiri just open a issue or contact me in Discord
 - Roleplay Commands
 - Ship Command
 - Cooldowns
-```
+
 Config:
+```
 {
   "botName": "",
   "discord_token": "",
@@ -20,6 +21,7 @@ Config:
   "adminRoleName": "Discord Admin",
   "actionChannel": "" 
 }
+```
 Console:
 npm install
 
@@ -34,4 +36,3 @@ Gmail: sureiyahigo@gmail.com
 
 
 © Sureiya Higoroshi
-```

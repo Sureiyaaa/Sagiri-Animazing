@@ -23,9 +23,15 @@ Config:
 }
 ```
 Console:
+
+```
 npm install
 
+```
+
 Contact:
+
+```
 
 Discord: Sureiyā#3654
 
@@ -33,6 +39,6 @@ Animazing Server: discord.gg/animazing
 
 Gmail: sureiyahigo@gmail.com
 
-
+```
 
 © Sureiya Higoroshi
